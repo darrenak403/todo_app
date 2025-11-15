@@ -7,18 +7,21 @@ A simple and intuitive Todo application built with Flutter and Hive for local da
 <div align="center" style="display: flex; gap: 20px; justify-content: center;">
 
   <!-- Container cho ảnh 1 -->
-  <div style="width: 45%; height: 300px; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+ <div style="width: 45%; height: 300px; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="screenshots/home.png" 
          style="width: 100%; height: 100%; object-fit: cover;" 
          alt="Home Screen" />
   </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
   <!-- Container cho ảnh 2 -->
   <div style="width: 45%; height: 300px; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="screenshots/add.png" 
          style="width: 100%; height: 100%; object-fit: cover;" 
-         alt="Add Task Dialog" />
+         alt="Home Screen" />
   </div>
+
 
 </div>
 
