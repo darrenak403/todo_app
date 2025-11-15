@@ -29,13 +29,10 @@ This is a learning project that demonstrates fundamental Flutter concepts includ
 
 ## 📸 Screenshots
 
-### Home Screen
-
-![Home Screen](screenshots/home.png)
-
-### Add New Task
-
-![Add Task Dialog](screenshots/add.png)
+<div align="center">
+  <img src="screenshot/add.png" width="200" alt="Home Screen" />
+  <img src="screenshot/add.png" width="200" alt="Add Screen" />
+</div>
 
 ## 🚀 Getting Started
 
