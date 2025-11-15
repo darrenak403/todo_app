@@ -14,7 +14,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: HomePage(),
       theme: ThemeData(
-        primarySwatch: Colors.yellow,
+        useMaterial3: true,
+        colorSchemeSeed: Colors.yellow,
         appBarTheme: AppBarTheme(backgroundColor: Colors.yellow),
         floatingActionButtonTheme: FloatingActionButtonThemeData(
           backgroundColor: Colors.yellow,
