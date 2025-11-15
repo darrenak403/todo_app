@@ -1,3 +1,4 @@
+
 # Todo App
 
 A simple and intuitive Todo application built with Flutter and Hive for local data persistence.
@@ -32,13 +33,13 @@ This is a learning project that demonstrates fundamental Flutter concepts includ
 <div align="center">
  <img src="screenshots/home.png" 
        width="45%" 
-       height="300px" 
+       height="900px" 
        style="border-radius: 16px;" 
        alt="Home Screen" />
   &nbsp;&nbsp;&nbsp;&nbsp;
  <img src="screenshots/add.png" 
        width="45%" 
-       height="300px" 
+       height="900px" 
        style="border-radius: 16px;" 
        alt="Add Task Screen" />
 </div>  
