@@ -6,13 +6,13 @@ A simple and intuitive Todo application built with Flutter and Hive for local da
 <div align="center">
   <img src="screenshots/home.png" 
        width="45%" 
-       height="700px" 
+       height="1000px" 
        style="border-radius: 16px;" 
        alt="Home Screen" />
   &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="screenshots/add.png" 
        width="45%" 
-       height="700px" 
+       height="1000px" 
        style="border-radius: 16px;" 
        alt="Add Task Dialog" />
 </div>
