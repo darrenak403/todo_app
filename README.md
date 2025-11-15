@@ -1,16 +1,140 @@
-# todo_app
+# Todo App
 
-A new Flutter project.
+A simple and intuitive Todo application built with Flutter and Hive for local data persistence.
 
-## Getting Started
+## 📱 About
 
-This project is a starting point for a Flutter application.
+This is a learning project that demonstrates fundamental Flutter concepts including:
 
-A few resources to get you started if this is your first Flutter project:
+- State management with StatefulWidget
+- Local database storage using Hive
+- Custom widgets and UI components
+- Material Design 3 theming
+- CRUD operations (Create, Read, Update, Delete)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ Add new tasks
+- ✅ Mark tasks as complete/incomplete
+- ✅ Delete tasks
+- ✅ Persistent storage (data saved locally)
+- ✅ Clean and modern UI with yellow theme
+- ✅ Material Design 3 support
+
+## 🛠️ Technologies Used
+
+- **Flutter** - UI framework
+- **Hive** - Lightweight and fast NoSQL database for local storage
+- **Material Design 3** - Modern UI design system
+
+## 📸 Screenshots
+
+### Home Screen
+
+![Home Screen](screenshots/home.png)
+
+### Add New Task
+
+![Add Task Dialog](screenshots/add.png)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (latest version)
+- Dart SDK
+- Android Studio / VS Code
+- iOS Simulator / Android Emulator
+
+### Installation
+
+1. Clone the repository
+
+```bash
+git clone <your-repo-url>
+cd todo_app
+```
+
+2. Install dependencies
+
+```bash
+flutter pub get
+```
+
+3. Run the app
+
+```bash
+flutter run
+```
+
+## 📦 Dependencies
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+```
+
+## 📁 Project Structure
+
+```
+lib/
+├── main.dart              # App entry point
+├── pages/
+│   └── home_page.dart     # Main todo list screen
+├── util/
+│   ├── dialog_box.dart    # Add task dialog
+│   ├── my_button.dart     # Custom button widget
+│   └── todo_tile.dart     # Todo item widget
+└── data/
+    └── database.dart      # Hive database operations
+```
+
+## 🎨 Customization
+
+The app uses a yellow color scheme defined in `main.dart`. You can customize the theme by modifying:
+
+```dart
+theme: ThemeData(
+  useMaterial3: true,
+  colorSchemeSeed: Colors.yellow, // Change this to your preferred color
+  appBarTheme: AppBarTheme(backgroundColor: Colors.yellow),
+  floatingActionButtonTheme: FloatingActionButtonThemeData(
+    backgroundColor: Colors.yellow,
+  ),
+)
+```
+
+## 📚 What I Learned
+
+- Setting up Hive for local data persistence
+- Creating reusable custom widgets
+- Managing state with setState()
+- Working with ListView.builder for dynamic lists
+- Implementing dialogs and user interactions
+- Applying Material Design 3 theming
+- CRUD operations with local database
+
+## 🔮 Future Improvements
+
+- [ ] Add task categories
+- [ ] Implement task priority levels
+- [ ] Add due dates and reminders
+- [ ] Search and filter functionality
+- [ ] Dark mode support
+- [ ] Task editing functionality
+- [ ] Data export/import
+
+## 📄 License
+
+This project is open source and available for learning purposes.
+
+## 👤 Author
+
+Created as a learning project to explore Flutter development and local data storage.
+
+---
+
+**Note**: This is a learning project and may not include all production-ready features or best practices.
