@@ -2,6 +2,14 @@
 
 A simple and intuitive Todo application built with Flutter and Hive for local data persistence.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="45%" alt="Home Screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/add.png" width="45%" alt="Add Task Dialog" />
+</p>
+
 ## 📱 About
 
 This is a learning project that demonstrates fundamental Flutter concepts including:
@@ -26,14 +34,7 @@ This is a learning project that demonstrates fundamental Flutter concepts includ
 - **Flutter** - UI framework
 - **Hive** - Lightweight and fast NoSQL database for local storage
 - **Material Design 3** - Modern UI design system
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" width="45%" alt="Home Screen" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/add.png" width="45%" alt="Add Task Dialog" />
-</p>
+- 
 
 ## 🚀 Getting Started
 
