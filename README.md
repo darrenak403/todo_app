@@ -3,11 +3,20 @@
 A simple and intuitive Todo application built with Flutter and Hive for local data persistence.
 
 ## 📸 Screenshots
-
 <div align="center">
-  <img src="screenshots/home.png" width="45%" height="10%" alt="Home Screen" />
+  <img src="screenshots/home.png" 
+       width="45%" 
+       height="300px" 
+       style="border-radius: 16px;" 
+       alt="Home Screen" />
+
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/add.png" width="45%" height="10%" alt="Add Task Dialog" />
+
+  <img src="screenshots/add.png" 
+       width="45%" 
+       height="300px" 
+       style="border-radius: 16px;" 
+       alt="Add Task Dialog" />
 </div>
 
 ## 📱 About
