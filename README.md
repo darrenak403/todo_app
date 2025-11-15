@@ -9,10 +9,8 @@ A simple and intuitive Todo application built with Flutter and Hive for local da
        height="300px" 
        style="border-radius: 16px;" 
        alt="Home Screen" />
-
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="screenshots/add.png" 
+    <img src="screenshots/add.png" 
        width="45%" 
        height="300px" 
        style="border-radius: 16px;" 
