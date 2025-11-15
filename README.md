@@ -4,7 +4,7 @@ A simple and intuitive Todo application built with Flutter and Hive for local da
 
 ## 📸 Screenshots
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+<div align="center"">
 
   <!-- Container cho ảnh 1 -->
  <div style="width: 45%; height: 300px; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
