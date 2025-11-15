@@ -30,24 +30,18 @@ This is a learning project that demonstrates fundamental Flutter concepts includ
 ## 📸 Screenshots
 
 <div align="center">
-
-  <!-- Container cho ảnh 1 -->
-  <div style="display: inline-block; width: 45%; height: 300px; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="screenshots/home.png" 
-         style="width: 100%; height: 100%; object-fit: cover;" 
-         alt="Home Screen" />
-  </div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Container cho ảnh 2 -->
-  <div style="display: inline-block; width: 45%; height: 300px; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="screenshots/add.png" 
-         style="width: 100%; height: 100%; object-fit: cover;" 
-         alt="Add Task Dialog" />
-  </div>
-
-</div>
+ <img src="screenshots/home.png" 
+       width="45%" 
+       height="300px" 
+       style="border-radius: 16px;" 
+       alt="Home Screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="screenshots/add.png" 
+       width="45%" 
+       height="300px" 
+       style="border-radius: 16px;" 
+       alt="Add Task Screen" />
+</div>  
 
 ## 🚀 Getting Started
 
